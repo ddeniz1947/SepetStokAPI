@@ -6,6 +6,7 @@ DataAccess Katmanının dosya dizininde , (PowerShell , CMD veya Linux Terminali
 Bu komutun çalışması için DotNet Tool kurulu olmalıdır;
 
 • “dotnet tool install“ => DotNet Tool kurulumu
+
 • “dotnet ef database update” => Db Modellerinin Sql Server üzerinde işlenmesi için gerekli komut
 
 Projenin Db Migrationları içindedir.
