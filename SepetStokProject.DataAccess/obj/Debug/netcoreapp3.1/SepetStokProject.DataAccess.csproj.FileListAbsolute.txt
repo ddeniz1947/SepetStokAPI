@@ -1,0 +1,15 @@
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\obj\Debug\netcoreapp3.1\SepetStokProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\obj\Debug\netcoreapp3.1\SepetStokProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\obj\Debug\netcoreapp3.1\SepetStokProject.DataAccess.AssemblyInfo.cs
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\obj\Debug\netcoreapp3.1\SepetStokProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\bin\Debug\netcoreapp3.1\SepetStokProject.DataAccess.deps.json
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\bin\Debug\netcoreapp3.1\SepetStokProject.DataAccess.runtimeconfig.json
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\bin\Debug\netcoreapp3.1\SepetStokProject.DataAccess.runtimeconfig.dev.json
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\bin\Debug\netcoreapp3.1\SepetStokProject.DataAccess.dll
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\bin\Debug\netcoreapp3.1\SepetStokProject.DataAccess.pdb
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\bin\Debug\netcoreapp3.1\SepetStokProject.Entities.dll
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\bin\Debug\netcoreapp3.1\SepetStokProject.Entities.pdb
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\obj\Debug\netcoreapp3.1\SepetStokProject.DataAccess.csproj.CopyComplete
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\obj\Debug\netcoreapp3.1\SepetStokProject.DataAccess.dll
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\obj\Debug\netcoreapp3.1\SepetStokProject.DataAccess.pdb
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.DataAccess\obj\Debug\netcoreapp3.1\SepetStokProject.DataAccess.genruntimeconfig.cache

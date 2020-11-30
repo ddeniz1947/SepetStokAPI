@@ -1,0 +1,12 @@
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\bin\Debug\netcoreapp3.1\SepetStokProject.Entities.deps.json
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\bin\Debug\netcoreapp3.1\SepetStokProject.Entities.runtimeconfig.json
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\bin\Debug\netcoreapp3.1\SepetStokProject.Entities.runtimeconfig.dev.json
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\bin\Debug\netcoreapp3.1\SepetStokProject.Entities.dll
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\bin\Debug\netcoreapp3.1\SepetStokProject.Entities.pdb
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\obj\Debug\netcoreapp3.1\SepetStokProject.Entities.csprojAssemblyReference.cache
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\obj\Debug\netcoreapp3.1\SepetStokProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\obj\Debug\netcoreapp3.1\SepetStokProject.Entities.AssemblyInfo.cs
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\obj\Debug\netcoreapp3.1\SepetStokProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\obj\Debug\netcoreapp3.1\SepetStokProject.Entities.dll
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\obj\Debug\netcoreapp3.1\SepetStokProject.Entities.pdb
+C:\Users\Deniz Can DINC\source\repos\SepetStokProject.Entities\obj\Debug\netcoreapp3.1\SepetStokProject.Entities.genruntimeconfig.cache

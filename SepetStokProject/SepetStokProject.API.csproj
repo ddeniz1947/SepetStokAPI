@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SepetStokProject.Business">
+      <HintPath>..\SepetStokProject.Business\obj\Debug\netcoreapp3.1\SepetStokProject.Business.dll</HintPath>
+    </Reference>
+    <Reference Include="SepetStokProject.DataAccess">
+      <HintPath>..\SepetStokProject.DataAccess\bin\Debug\netcoreapp3.1\SepetStokProject.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="SepetStokProject.Entities">
+      <HintPath>..\SepetStokProject.Entities\bin\Debug\netcoreapp3.1\SepetStokProject.Entities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
